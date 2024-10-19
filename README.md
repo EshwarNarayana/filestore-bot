@@ -1,8 +1,11 @@
 # Filestorebot
-NOTE: full source code is written by Abir hasan, i just changed some codes and made it easy to deploy and also added file forwarding protection.
+A telegram file store bot that can store telegram files and give you unique links to retrieve that file.
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
+
+### 🆓 If you want a free bot hosting checkout this article here:
+https://github.com/Harshit-shrivastav/Free-Telegram-bot-hosting
 
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
@@ -34,7 +37,7 @@ NOTE: full source code is written by Abir hasan, i just changed some codes and m
 	- Put all banned channel IDs & Separate with space.
 - `UR_CHANNEL` - Your channel username.
 	- to set your channel in start button.
-- `UR_GROUP` - yur group username.
+- `UR_GROUP` - your group username.
 	-  to set your group in start button.
 
 ### Deploy Now:
@@ -46,6 +49,3 @@ start - start the bot
 status - Show number of users in DB
 ```
 
-### Credits:
-* **Abir Hasan:** [Abir Hasan](https:/github.com/abirhasan2005)
-* **Pyrogrammers:** [Pyrogrammers](https:/github.com/pyrogramers)
